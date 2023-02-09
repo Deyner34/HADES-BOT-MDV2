@@ -4,14 +4,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['51934299838', '𝙾𝙵𝙲 Deyner', true],
+  ['', '𝙾𝙵𝙲 ', true],
+  ['', '', true],
 ]
 
-global.mods = ['5212411719888'],
-global.prems = ['5212411347465'], 
-global.prems = ['5212412377467'],
+global.mods = ['51934299838'],
+global.prems = [''], 
+global.prems = [''],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -63,7 +63,7 @@ global.APIKeys = {
 }
 
 global.packname = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.author = 'Papi Deyner'
 
 global.vs = '1.0.30'
 global.version = vs
@@ -110,7 +110,7 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.wm = '©ᴏғᴄ-Deyner﹏✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
 global.igfg = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
